@@ -20,6 +20,7 @@ Projeto do Desafio do  Bootcamp HTML Web Developer da Digital Inovation One, Rec
 - [x] Inclusão das imagens
 - [x] Inclusão dos textos
 - [x] Responsividade com classes do Tailwind
+- [x] Conclusão do projeto
 
 
 Digital Inovation One!
